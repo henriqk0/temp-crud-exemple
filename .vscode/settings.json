@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "**/templates/**/*.html": "django-html"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true
+    // auto black . (terminal command)
+    // "python.formatting.provider": "black",
+    // "editor.defaultFormatter": "ms-python.black" 
+}
